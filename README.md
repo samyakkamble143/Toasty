@@ -1,5 +1,6 @@
 # Toast
 Simple Toast Library
+[![](https://jitpack.io/v/samyakkamble143/Toasty.svg)](https://jitpack.io/#samyakkamble143/Toasty)
 
 >Step 1. Add the JitPack repository to your build file
 ```bash
